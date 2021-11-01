@@ -1,3 +1,3 @@
 # number-guessing
-Demo:
+Live:
 https://meeranhusain.github.io/number-guessing/
